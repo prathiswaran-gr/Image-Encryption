@@ -5,7 +5,7 @@ from correlationAnalysis import *
 input_image_path = './input/input_image.png'
 encrypted_image_path = './output/encrypted_image.png'
 decrypted_image_path = './output/decrypted_image.png'
-arnold_iterations = 5
+arnold_iterations = 30
 
 print("------------------------Please wait------------------------")
 # Encrypt the image
